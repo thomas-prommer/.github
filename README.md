@@ -12,6 +12,7 @@
 - [YouTube](https://www.youtube.com/channel/UCMdGZe7NhNpOiV1EoeXZPuQ) - Talks & presentations
 - [Medium](https://medium.com/@thomasprommer) - Articles & insights
 - [GitHub](https://github.com/tipmaster) - Code & projects
+- [Company](https://wetheflywheel.com) - Group CEO
 
 ## Expertise
 
